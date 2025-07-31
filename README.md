@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Moosa Imran from Lahore, Pakistan<br><br>- 📚 I'm currently learning Web Development<br>- ⚡ In my free time I like to play video games and watch movies</p>
+<p align="left">I'm Moosa Imran from Lahore, Pakistan<br><br>- 📚 I'm currently working as a Software Engineer<br>- ⚡ In my free time I like to play video games and watch movies</p>
 
 ###
 
